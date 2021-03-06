@@ -14,11 +14,11 @@
 ## 📝 Table of Contents
 
 - [My Spec](#spec)
-- [Build Info]($opencore)
-- [What's working]($working)
-- [What's not working]($notworking)
-- [No testing (maybe in future)]($notesting)
-- [Comments]($comments)
+- [Build Info](#opencore)
+- [What's working](#working)
+- [What's not working](#notworking)
+- [No testing (maybe in future)](#notesting)
+- [Comments](#comments)
 
 ## Spec <a name = "spec"></a>
 
